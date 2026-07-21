@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1441-build-an-array-with-stack-operations](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1512-number-of-good-pairs](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1441-build-an-array-with-stack-operations](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0682-baseball-game) |
+| [1441-build-an-array-with-stack-operations](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1920-build-array-from-permutation](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2390-removing-stars-from-a-string](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Counting Sort
