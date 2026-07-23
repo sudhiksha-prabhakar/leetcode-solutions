@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0412-fizz-buzz](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0844-backspace-string-compare) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0496-next-greater-element-i) |
