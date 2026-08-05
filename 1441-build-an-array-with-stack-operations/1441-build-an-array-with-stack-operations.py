@@ -1,16 +1,16 @@
 class Solution(object):
     def buildArray(self, target, n):
-        ans = []
-        i = 0
+        ans=[]
+        i=0
 
-        for num in range(1, n + 1):
+        for num in range(1,n+1):
             ans.append("Push")
 
-            if num == target[i]:
-                i += 1
-                if i == len(target):
+            if num==target[i]:
+                i+=1
+                if i==len(target):
                     break
+
             else:
                 ans.append("Pop")
-
-        return ans
+        return ans                
