@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0412-fizz-buzz](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -225,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
