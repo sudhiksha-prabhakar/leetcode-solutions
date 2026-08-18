@@ -232,4 +232,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0029-divide-two-integers) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
