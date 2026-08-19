@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0682-baseball-game) |
@@ -235,10 +236,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0933-number-of-recent-calls](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0933-number-of-recent-calls](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
