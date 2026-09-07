@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/2942-find-words-containing-character) |
+| [3174-clear-digits](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/3174-clear-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2390-removing-stars-from-a-string](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/3174-clear-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2390-removing-stars-from-a-string](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/3174-clear-digits) |
 ## Counting Sort
 |  |
 | ------- |
