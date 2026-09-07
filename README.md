@@ -264,4 +264,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
+## Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
