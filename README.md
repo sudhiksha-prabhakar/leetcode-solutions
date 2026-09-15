@@ -267,9 +267,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
