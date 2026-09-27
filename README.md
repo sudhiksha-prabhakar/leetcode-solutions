@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0204-count-primes) |
 | [0496-next-greater-element-i](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0735-asteroid-collision) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0204-count-primes) |
 | [2413-smallest-even-multiple](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 ## Monotonic Stack
 |  |
@@ -301,4 +304,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
