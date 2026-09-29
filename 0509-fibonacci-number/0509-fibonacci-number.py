@@ -8,7 +8,6 @@ class Solution(object):
        for i in range(2,n+1):
         fibo.append(fibo[i-1]+fibo[i-2])
 
-       return fibo[n]
-
+       return fibo[n]  
 
         
