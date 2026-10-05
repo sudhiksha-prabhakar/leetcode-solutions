@@ -1,16 +1,11 @@
 class Solution(object):
     def singleNumber(self, nums):
-        dupli={}
+        result=0
 
         for num in nums:
-            if num in dupli:
-                dupli[num]+=1
-            else:
-                dupli[num]=1
+            result=result^num
 
-        for num in nums:
-            if dupli[num]==1:
-                return num            
+        return result        
 
                 
         
