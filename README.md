@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0136-single-number](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Linked List
 |  |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -211,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0169-majority-element) |
 ## Greedy
 |  |
 | ------- |
@@ -346,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0202-happy-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
