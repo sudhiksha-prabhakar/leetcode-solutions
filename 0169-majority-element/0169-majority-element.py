@@ -1,11 +1,15 @@
 class Solution(object):
     def majorityElement(self, nums):
-        maj={}
+        count=0
+        candidate=0
+
         for num in nums:
-            if num not in maj:
-                maj[num]=1
+            if count==0:
+                candidate=num
+
+            if num==candidate:
+                count+=1
             else:
-                maj[num]+=1    
-            if maj[num]>len(nums)//2:
-                return num    
+                count-=1
+        return candidate                   
         
