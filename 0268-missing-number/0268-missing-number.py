@@ -1,8 +1,5 @@
 class Solution(object):
     def missingNumber(self, nums):
-        num=sorted(nums)
-        for i in range(len(num)):
-            if i!=num[i]:
-                return i
-        return len(num)  
-        
+        n=len(nums)
+        total=n*(n+1)//2
+        return total-sum(nums)
