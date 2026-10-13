@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0735-asteroid-collision) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0268-missing-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
@@ -275,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0268-missing-number) |
 ## Design
 |  |
 | ------- |
