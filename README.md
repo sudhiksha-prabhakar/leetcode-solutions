@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0735-asteroid-collision) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0844-backspace-string-compare](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sudhiksha-prabhakar/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
