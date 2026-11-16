@@ -6,9 +6,8 @@ class Solution(object):
         while x>0:
             digit=x%10
             rev=rev*10+digit
-            x=x//10
+            x=x/10
+
         if temp==rev:
             return True
-
-        return False                
-        
+        return False        
